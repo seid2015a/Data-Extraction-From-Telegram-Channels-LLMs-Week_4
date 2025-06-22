@@ -1,1 +1,4 @@
-.
+. amseg
+. pandas
+. telethon
+. re
